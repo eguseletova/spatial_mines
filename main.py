@@ -201,10 +201,10 @@ def main():
     out_dir.mkdir(exist_ok=True)
 
     east = load_boundaries()
-    plot_basic_boundaries(east, outpath=out_dir / "0east_boundaries.png")
+    plot_basic_boundaries(east, outpath=out_dir / "east_boundaries.png")
 
     east = load_and_merge_elections(east)
-    plot_afd_choropleth(east, outpath=out_dir / "0afd_share.png")
+    plot_afd_choropleth(east, outpath=out_dir / "afd_share.png")
 
     mines = load_coal_mines()
     plot_mines_overlay(east, mines, outpath=out_dir / "mines_overlay.png")
