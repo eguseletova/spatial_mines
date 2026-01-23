@@ -1,0 +1,9 @@
+CountryArea,MineName,Owners,MineType,MiningMethod,MineSizeKm2,WorkforceSize,CoalType,CoalGrade,OpeningYear,ClosingYear,ReasonforClosure,MineSiteStatus,StateProvince,Latitude,Longitude,operational,CMMEmissionsCO2e20years,data_source
+Germany,Cottbus North,Lausitz Energie Bergbau AG,Surface,,,,Lignite,Thermal,1981,2015,Reserve exhausted,Rehabilitation,Brandenburg,51.79018822,14.41787535,0,,Global Coal Mine Tracker May 2025 v2
+Germany,Jänschwalde Coal Mine,Lausitz Energie Bergbau AG,Surface,Open Pit,80,500,Lignite,Thermal,1974,2023,End of mine life,Rehabilitation,Lusatia,51.791944,14.539722,0,,Global Coal Mine Tracker May 2025 v2
+Germany,Nochten Coal Mine,Lausitz Energie Bergbau AG [100%],Surface,Open Pit,107,1510,Lignite,Thermal,1968,2038,,,Saxony,51.457109,14.574709,1,1.4,Global Coal Mine Tracker May 2025 v2
+Germany,Profen Coal Mine,Mitteldeutsche Braunkohlengesellschaft mbH [100%],Surface,Open Pit,17,641,Lignite,Thermal,1941,2035,,,Saxony-Anhalt,51.144,12.184,1,.3,Global Coal Mine Tracker May 2025 v2
+Germany,Reichwalde Coal Mine,Lausitz Energie Bergbau AG [100%],Surface,Open Pit,55,1139,Lignite,Thermal,1987,2038,,,Saxony,51.396367,14.678249,1,.8,Global Coal Mine Tracker May 2025 v2
+Germany,Vereinigtes Schleenhain Coal Mine,Mitteldeutsche Braunkohlengesellschaft mbH [100%],Surface,Open Pit,17,1707,Lignite,Thermal,1949,2035,,,Saxony-Anhalt,51.128,12.386,1,.5,Global Coal Mine Tracker May 2025 v2
+Germany,Welzow-Süd Coal Mine,Lausitz Energie Bergbau AG [100%],Surface,Open Pit,108,1105,Lignite,Thermal,1959,2038,,,Brandenburg,51.599444,14.278889,1,1.9,Global Coal Mine Tracker May 2025 v2
+Germany,Amsdorf Coal Mine,Romonta GmbH [100%],Surface,Open Pit,2,224,Lignite,Thermal,1959,2025,,,Saxony-Anhalt,51.459088,11.717863,1,0,Global Coal Mine Tracker May 2025 v2
